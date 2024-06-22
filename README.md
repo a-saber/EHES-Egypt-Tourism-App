@@ -4,7 +4,13 @@
 The Egypt Tourism App is designed to provide tourists with comprehensive information about popular tourist destinations in Egypt. Users can explore various attractions, plan their visits, and access useful services to enhance their travel experience.
 
 # Video Demo 
-[![Watch the video]()](https://youtu.be/16ccz1zoijs)
+[![Watch the video](https://drive.google.com/file/d/1CboLSH4vYog8z_Py_FR626aOiHN56W-E/view?usp=sharing)](https://youtu.be/16ccz1zoijs)
+
+
+## Usage
+
+### APK: [download from here](https://drive.google.com/file/d/1XxD11VDONBbRSfTpxDhyiRKNn3B5b5Aq/view?usp=drive_link)
+
 
 ## Features
 
