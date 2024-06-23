@@ -33,3 +33,32 @@ The Egypt Tourism App is designed to provide tourists with comprehensive informa
 - **Currency Exchange**: Check the current exchange rates between your currency (e.g., USD) and the Egyptian Pound (EGP).
 - **Weather Updates**: Get the latest weather information for Egypt.
 - **Emergency Numbers**: Access important emergency contact numbers in Egypt.
+
+## Installation
+
+### Prerequisites
+- Flutter SDK: [Flutter installation guide](https://flutter.dev/docs/get-started/install)
+- Dart SDK: Included with Flutter
+- Visual Studio Code [Download VS code](https://code.visualstudio.com/)
+
+### Steps
+1. **Clone the repository**
+
+2. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+3. **Connect to your Firebase App:**
+    ```bash
+    flutterfire config
+    ```
+    ! don't forget to enable features like:
+      - Authentication (Email & Password)
+      - FireStore
+      - Firebase Storage
+      - Firebase Masseging
+
+4. **Run the app:**
+    ```bash
+    flutter run
+    ```
